@@ -1,80 +1,82 @@
-  # ModMap Privacy Policy                                   
-                                                                                                                                                                                                                                                    
-  _Last updated: 21 April 2026_                             
-                                                                                                                                                                                                                                                    
-  ModMap is a car modification and maintenance tracker for iOS. This
-  policy explains what data the app handles and where it lives.                                                                                                                                                                                     
-  It's short on purpose — ModMap is built to minimise data  
-  collection.                                                                                                                                                                                                                                       
-                                              
-  ## What data ModMap stores                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                    
-  **On your device**: every car, modification, service record, fuel                                                                                                                                                                                 
-  entry, expense, compliance date, roadmap, photo, backup file, and                                                                                                                                                                                 
-  preference you create. Stored in the app's sandboxed container and                                                                                                                                                                                
-  file-protected by iOS. We (the developers) have no access to this                                                                                                                                                                                 
-  data.                                       
-                                                                                                                                                                                                                                                    
-  **In your iCloud private database**: if you're signed into iCloud                                                                                                                                                                                 
-  and have iCloud Drive enabled, the same data syncs across your                                                                                                                                                                                    
-  devices via Apple's CloudKit private database. This is your iCloud                                                                                                                                                                                
-  storage — only you can see it. Apple's privacy policy applies.                                                                                                                                                                                    
-                                                            
-  **Photos**: hero photos on cars (free tier), and optional mod /                                                                                                                                                                                   
-  service photos (Pro tier) are stored as JPEG files locally and                                                                                                                                                                                    
-  synced via your iCloud private database. Same privacy as above.                                                                                                                                                                                   
-                                                                                                                                                                                                                                                    
-  ## What data ModMap sends externally                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                    
-  **DVLA / DVSA (UK only)**: when you tap "Lookup by Reg" on UK cars,                                                                                                                                                                               
-  the app sends the registration number to the DVLA Vehicle Enquiry                                                                                                                                                                                 
-  Service and DVSA MOT History API. These are UK government services                                                                                                                                                                                
-  and the request contains only the reg number. No other personal                                                                                                                                                                                   
-  data is sent. The response (make, model, year, colour, MOT dates,
-  mileage) is stored locally as described above.                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                    
-  **Apple StoreKit**: when you purchase ModMap Pro, Apple handles the                                                                                                                                                                               
-  transaction. We never see your payment details. We receive only a                                                                                                                                                                                 
-  transaction receipt confirming the subscription is active.                                                                                                                                                                                        
-                                                                                                                                                                                                                                                    
-  **Anonymous usage analytics**: ModMap records aggregate feature-
-  usage events (e.g. "a car was added", "a PDF was exported") to                                                                                                                                                                                    
-  Apple's CloudKit public database. Each event includes the event                                                                                                                                                                                   
-  name, timestamp, an optional enum-valued category (never free text),                                                                                                                                                                              
-  and a random per-install hash that rotates when you reinstall. No                                                                                                                                                                                 
-  user identity, no device identifier, no location, no reg plates, no                                                                                                                                                                               
-  personal data. You can turn this off in **Settings > Privacy >                                                                                                                                                                                    
-  Anonymous analytics**.                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                    
-  ## What we never collect                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                    
-  - Your name, email, phone number, or address                                                                                                                                                                                                      
-  - Location data                                           
-  - Contacts, photos from your camera roll (except ones you                                                                                                                                                                                         
-    explicitly attach to a car), or any device sensor data                                                                                                                                                                                          
-  - Advertising identifiers or tracking tokens
-  - Any data used for advertising or cross-app profiling                                                                                                                                                                                            
-                                                                                                                                                                                                                                                    
-  ## Your controls                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                    
-  - **Export your data**: Settings > Data > Export Backup — a                                                                                                                                                                                       
-    `.modmap` JSON file with your full garage                                                                                                                                                                                                       
-  - **Delete a car**: Settings > Danger Zone (on each car)                                                                                                                                                                                          
-  - **Delete everything**: uninstall the app. Local data is wiped                                                                                                                                                                                   
-    by iOS. Your iCloud private database entries remain in your
-    iCloud until you clear ModMap from iCloud Settings > Apple ID >                                                                                                                                                                                 
-    iCloud > Manage Storage                                 
-  - **Opt out of anonymous analytics**: Settings > Privacy                                                                                                                                                                                          
-                                                                                                                                                                                                                                                    
-  ## Children                                                                                                                                                                                                                                       
-                                                                                                                                                                                                                                                    
-  ModMap is not directed at children under 13 and does not                                                                                                                                                                                          
-  knowingly collect any data from children.                 
-                                                                                                                                                                                                                                                    
-  ## Changes                                                
+# ModMap Privacy Policy
 
-  We may update this policy as the app evolves. Significant changes                                                                                                                                                                                 
+  _Last updated: 21 April 2026_
+
+  ModMap is a car modification and maintenance tracker for iOS. This
+  policy explains what data the app handles and where it lives.
+  It's short on purpose — ModMap is built to minimise data
+  collection.
+
+  ## What data ModMap stores
+
+  **On your device**: every car, modification, service record, fuel
+  entry, expense, compliance date, roadmap, photo, backup file, and
+  preference you create. Stored in the app's sandboxed container and
+  file-protected by iOS. We (the developers) have no access to this
+  data.
+
+  **In your iCloud private database**: if you're signed into iCloud
+  and have iCloud Drive enabled, the same data syncs across your
+  devices via Apple's CloudKit private database. This is your iCloud
+  storage — only you can see it. Apple's privacy policy applies.
+
+  **Photos**: hero photos on cars (free tier), and optional mod /
+  service photos (Pro tier) are stored as JPEG files locally and
+  synced via your iCloud private database. Same privacy as above.
+
+  ## What data ModMap sends externally
+
+  **DVLA / DVSA (UK only)**: when you tap "Lookup by Reg" on UK cars,
+  the app sends the registration number to the DVLA Vehicle Enquiry
+  Service and DVSA MOT History API. These are UK government services
+  and the request contains only the reg number. No other personal
+  data is sent. The response (make, model, year, colour, MOT dates,
+  mileage) is stored locally as described above.
+
+  **Apple StoreKit**: when you purchase ModMap Pro, Apple handles the
+  transaction. We never see your payment details. We receive only a
+  transaction receipt confirming the subscription is active.
+
+  **Anonymous usage analytics**: ModMap records aggregate feature-
+  usage events (e.g. "a car was added", "a PDF was exported") to
+  Apple's CloudKit public database. Each event includes the event
+  name, timestamp, an optional enum-valued category (never free text),
+  and a random per-install hash that rotates when you reinstall. No
+  user identity, no device identifier, no location, no reg plates, no
+  personal data. You can turn this off in **Settings > Privacy >
+  Anonymous analytics**.
+
+  ## What we never collect
+
+  - Your name, email, phone number, or address
+  - Location data
+  - Contacts, photos from your camera roll (except ones you
+    explicitly attach to a car), or any device sensor data
+  - Advertising identifiers or tracking tokens
+  - Any data used for advertising or cross-app profiling
+
+  ## Your controls
+
+  - **Export your data**: Settings > Data > Export Backup — a
+    `.modmap` JSON file with your full garage
+  - **Delete a car**: Settings > Danger Zone (on each car)
+  - **Delete everything**: uninstall the app. Local data is wiped
+    by iOS. Your iCloud private database entries remain in your
+    iCloud until you clear ModMap from iCloud Settings > Apple ID >
+    iCloud > Manage Storage
+  - **Opt out of anonymous analytics**: Settings > Privacy
+
+  ## Children
+
+  ModMap is not directed at children under 13 and does not
+  knowingly collect any data from children.
+
+  ## Changes
+
+  We may update this policy as the app evolves. Significant changes
   will be noted in the app's release notes.
-                                                                                                                                                                                 ## Contact                                                                                                                                                                                                                                        
-  For privacy questions or data requests, contact us from within                                                                                                                                                                                    
+
+  ## Contact
+
+  For privacy questions or data requests, contact us from within
   the ModMap app: **Settings > Help & Feedback > Send Feedback**.
