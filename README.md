@@ -75,4 +75,6 @@
 
   We may update this policy as the app evolves. Significant changes                                                                                                                                                                                 
   will be noted in the app's release notes.
-                                                                                                                                                                                 
+                                                                                                                                                                                 ## Contact                                                                                                                                                                                                                                        
+  For privacy questions or data requests, contact us from within                                                                                                                                                                                    
+  the ModMap app: **Settings > Help & Feedback > Send Feedback**.
